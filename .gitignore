@@ -40,3 +40,10 @@ venv/
 *.wav
 *.weba
 *.wma
+
+# macOS
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
